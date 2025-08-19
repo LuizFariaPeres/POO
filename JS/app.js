@@ -1,6 +1,6 @@
 //modulação do Ecma Script modules
 import { categoria, listaGastosPorCategoria} from "./classes.js";
-import { valorNegativo, atualizarInterface, valorNulo} from "./uteis.js";
+import { valorNegativo, atualizarInterface} from "./uteis.js";
 
 //POO
 const gastosPorCategotia = new listaGastosPorCategoria(
